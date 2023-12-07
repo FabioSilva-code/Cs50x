@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The one who had the smallest time when list was already sorted.
+
+sort2 uses:Merge Sort
+
+How do you know?: Fast time when number gets bigger, when sorted checked time was similar to both reversed and random
+
+sort3 uses: Selection Sort
+
+How do you know?: Biggest time when checking sorted list 50k
